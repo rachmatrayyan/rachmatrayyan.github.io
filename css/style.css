@@ -1,0 +1,21 @@
+section {
+    min-height: 420px;
+}
+
+.jumbotron-fluid {
+    background-image: url('../img/portfolio/bg1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 -250px;
+}
+
+.display-4 {
+    font-weight: bold;
+}
+
+.display-4,
+.lead {
+    color: #616060;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+
+}
